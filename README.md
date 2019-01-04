@@ -1,2 +1,2 @@
-# headless-chrome-npm
-### Extends selenium/headless-chrome to include NodeJS and NPM
+# standalone-chrome-node
+### Extends selenium/standalone-chrome to include NodeJS and NPM

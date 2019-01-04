@@ -1,2 +1,2 @@
 # standalone-chrome-node
-### Extends selenium/standalone-chrome to include NodeJS and NPM
+### Extends selenium/standalone-chrome to include NodeJS 8.x and NPM

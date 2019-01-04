@@ -23,9 +23,3 @@ fonts-noto \
 && apt-get install -y nodejs \
 && apt-get purge --auto-remove -y curl gnupg \
 && rm -rf /var/lib/apt/lists/*
-
-# RUN groupadd -r chrome && useradd -r -g chrome -G audio,video chrome \
-# && mkdir -p /home/chrome && chown -R chrome:chrome /home/chrome \
-# && mkdir -p /opt/google/chrome && chown -R chrome:chrome /opt/google/chrome
-
-# USER chrome

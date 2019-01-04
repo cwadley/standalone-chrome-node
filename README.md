@@ -1,2 +1,3 @@
-# standalone-chrome-node
-### Extends selenium/standalone-chrome to include NodeJS 8.x and NPM
+# ubuntu-chrome-node
+### Ubuntu with Chrome, NodeJS 8.x, and NPM
+Inspired by justinribeiro/chrome-headless and selenium/standalone-chrome
